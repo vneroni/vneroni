@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vera!
-- Welcome to the page ^_^
+- Welcome to the page!
 - 🌱 I’m currently learning Python and ArcGIS
 
 <!---
