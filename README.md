@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vneroni
-- Welcome!
+- 👋 Hi, I’m Vera!
+- Welcome to the page ^_^
 - 🌱 I’m currently learning Python and ArcGIS
 
 <!---
